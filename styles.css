@@ -228,3 +228,7 @@ border-radius: 3px;
 img {
   width: 85%;
 }
+
+.invert{
+  filter:invert(1);
+}
